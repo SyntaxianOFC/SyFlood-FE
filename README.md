@@ -37,3 +37,5 @@ project owner: sy.bl (me :3)
 
 # WARNING⚠️
 I know, you're getting tired of me always saying "I'm not responsible for blah blah blah", but even so, I'm not responsible for punishment, harm, and damage to the user who installed the program
+
+# CE and SE support (client and server)
